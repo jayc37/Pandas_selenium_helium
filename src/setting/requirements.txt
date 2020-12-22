@@ -1,0 +1,9 @@
+bs4
+selenium
+pyodbc
+webdriver_manager
+lxml
+openpyxl
+pandas
+xlrd
+helium
